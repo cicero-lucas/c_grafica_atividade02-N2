@@ -2,10 +2,10 @@
 
 #Crie um cubo utilizando opengl com texturas em todas as faces
 
+#EQUIPE:
 #Bruno Rocha Sampaio
 # Cicero Lucas Silva 
 # Rosemelry Mendes da Silva 
-
 
 
 import glfw
@@ -56,7 +56,6 @@ def desenhar_cubo(texturas):
         glEnd()  # Finalizar o bloco
 
     # Desabilitar texturas após desenhar
-
     glDisable(GL_TEXTURE_2D)  
 
 def main():
