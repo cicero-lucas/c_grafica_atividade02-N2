@@ -2,7 +2,6 @@
 #Crie um cubo utilizando opengl com texturas em todas as faces
 
 #EQUIPE:
-
 #Bruno Rocha Sampaio
 # Cicero Lucas Silva 
 # Rosemelry Mendes da Silva 
