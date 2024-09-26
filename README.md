@@ -43,13 +43,13 @@ cubo_texturizado/
 
    ```bash
    git clone https://github.com/cicero-lucas/c_grafica_atividade02-N2.git
-   cd 
+   cd c_grafica_atividade02-N2
    ```
 
 3. Execute o arquivo principal:
 
    ```bash
-   python cubo_texturizado.py
+   python cubo.py
    ```
 
 4. Uma janela será aberta mostrando o cubo texturizado. O cubo rotacionará automaticamente.
