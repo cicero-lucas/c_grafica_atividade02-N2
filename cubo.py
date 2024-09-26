@@ -1,8 +1,8 @@
 #Atividade 2 N2
-
 #Crie um cubo utilizando opengl com texturas em todas as faces
 
 #EQUIPE:
+
 #Bruno Rocha Sampaio
 # Cicero Lucas Silva 
 # Rosemelry Mendes da Silva 
@@ -31,7 +31,7 @@ def carregar_textura(nome_arquivo):
 
 def desenhar_cubo(texturas):
     glEnable(GL_TEXTURE_2D)
-      # Habilitar texturas antes de desenhar
+    # Habilitar texturas antes de desenhar
 
     # Desenhar cada face do cubo
     faces = [
